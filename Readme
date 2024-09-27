@@ -1,1 +1,5 @@
-11
+由于本人第一次使用github仓库 vue项目的module包无法上传 可能是技术原因
+
+项目启动方法 
+1.首先运行springboot
+2.进入work目录 npm run serve 即可看到后端页面 新手小白 或许有些简陋
